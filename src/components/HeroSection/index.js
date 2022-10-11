@@ -18,7 +18,7 @@ const HeroSection = () => {
       <div className='hero-heading' >reward for paying credit card bills.
       </div>
 
-      <div className='hero-subheading'>join 705M+ members who win rewards and cashbacks everyday
+      <div className='hero-subheading'>join 7.5M+ members who win rewards and cashbacks everyday
 
       </div>
       <Button buttonText='Download CRED' />
@@ -28,4 +28,4 @@ const HeroSection = () => {
   );
 };
 
-export default HeroSection
+export default HeroSection;

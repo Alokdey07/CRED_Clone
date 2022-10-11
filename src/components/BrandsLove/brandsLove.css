@@ -7,7 +7,7 @@
 
 .brands-love-heading{
     font-size: 24px;
-    font-weight: 700 ;
+    font-weight: 600 ;
 }
 
 .brands-love-banner{
@@ -20,9 +20,9 @@
     margin-top: 50px;
 }
 
-@media all and(max-width:767px){
+@media all and (max-width: 767px){
     .brands-love-heading{
-        font-size:18px;
+        font-size: 18px;
     }
 
     .brands-love-banner{

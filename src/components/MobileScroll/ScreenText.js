@@ -59,4 +59,4 @@ useEffect(() => {
 };
 
 
-export default ScreenText
+export default ScreenText;

@@ -35,7 +35,7 @@ useEffect(() => {
     return () =>{  if(ref.current){
         observer.unobserve(ref.current);
     }
-}
+};
 
 });
 
@@ -56,7 +56,7 @@ useEffect(() => {
 
         </div>)}
     </div>
-  )
-}
+  );
+};
 
-export default ProductShowcase
+export default ProductShowcase;

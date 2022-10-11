@@ -10,7 +10,7 @@ const BrandsLove = () => {
     </div>
       
     </div>
-  )
-}
+  );
+};
 
 export default BrandsLove;

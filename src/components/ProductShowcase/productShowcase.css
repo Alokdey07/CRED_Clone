@@ -12,34 +12,34 @@
     min-height: 70%;
 }
 
-.showcase-ui{
+.showcase-ui {
     position:absolute ;
     bottom: 0;
     left: 50%
 }
 
-.showcase-mockup-1{
-    transform: translate(-160%,25%) ;
+.showcase-mockup-1 {
+    transform: translate(-160%, 25%) ;
     z-index: 98;
 }
 
-.showcase-mockup-2{
-    transform: translate(-105%,15%) ;
+.showcase-mockup-2 {
+    transform: translate(-105%, 15%) ;
     z-index: 99;
 }
 
-.showcase-mockup-3{
-    transform: translate(-50%,5%) ;
+.showcase-mockup-3 {
+    transform: translate(-50%, 5%) ;
     z-index: 100;
 }
 
-.showcase-mockup-4{
-    transform: translate(5%,15%) ;
+.showcase-mockup-4 {
+    transform: translate(5%, 15%) ;
     z-index: 99;
 }
 
-.showcase-mockup-5{
-    transform: translate(60%,25%) ;
+.showcase-mockup-5 {
+    transform: translate(60%, 25%) ;
     z-index: 98;
 }
 

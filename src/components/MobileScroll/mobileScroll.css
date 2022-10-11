@@ -64,13 +64,13 @@
 }
 
 .screen-description{
-    font: size 20px;
+    font-size: 20px;
     font-weight: 600;
     margin-top: 52px;
 }
 
 
-@media all and (max-width:1279px){
+@media all and (max-width: 1279px){
     .mobile-scroll{
     padding-bottom: 30px;
     }
@@ -90,8 +90,11 @@
    }
 }
 
-@media all and (max-width:1279px){
-   
+@media all and (max-width: 767px){
+    .mobile-mockup {
+        width: 272px;
+        height: 480px;
+      }
 
     .screen-heading{
         font-size: 50px;

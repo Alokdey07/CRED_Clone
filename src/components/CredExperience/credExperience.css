@@ -4,13 +4,13 @@
     background-image: url(https://web-images.credcdn.in/_next/assets/images/home-page/money-matters-bg.jpg);
 }
 
-@media all and(max-width:1279px){
+@media all and (max-width:1279px){
     .cred-experience{
         background-position: center bottom ;
     }
 }
 
-@media all and(max-width:1279px){
+@media all and (max-width:1279px){
     .cred-experience{
         background-image: url(https://web-images.credcdn.in/_next/assets/images/home-page/money-matters-bg-mobile.jpg);
         min-height: 1120px ;
